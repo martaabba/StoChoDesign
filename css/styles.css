@@ -23,16 +23,16 @@ body{
 }
 
 
-
-.header h1{
-    color: black;
+.resume-button{
+    margin: 1em;
     text-align: center;
-    
 }
+
+
 .img-circle{
     radius: 100%;
     display: inline-block;
-    position: center;
+    position: relative;
 }
 
 
@@ -84,6 +84,11 @@ nav {
     text-transform: lowercase;
 }
 
+
+
+
+
+
 .form-group{
     color: white;
 }
@@ -110,6 +115,11 @@ footer{
 
 h2 {
     font-family: Futura, Helvetica, Arial, sans-serif;
+}
+
+.header h1{
+    color: black;
+    text-align: center;
 }
 
 h1, #contact h2, h3 {
