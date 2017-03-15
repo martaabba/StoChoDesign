@@ -1,8 +1,16 @@
 var works = [
-    "img/ptapic.jpg",
+    {
+        title: "kellyelementarypta.info",
+        pic:"img/ptapic.jpg"
+    },
     
+    {
+        title: "next Project",
+        pic: "img/profile.jpg"
+    },
     
-    
-    "img/cloudtectonics.jpg"
-    
-    ]
+    {
+        title: "michelleseaton.org",
+        pic: "img/cloudtectonics.jpg"
+    }
+    ];

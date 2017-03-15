@@ -84,6 +84,32 @@ nav {
     text-transform: lowercase;
 }
 
+.work-img{
+    display: block;
+    margin: auto;
+    max-width: 400px;
+    position: relative;
+}
+/*works display info*/
+
+.info {
+    display: none;
+    position: absolute;
+    top: 15%;
+    left: 22%;
+    color: #fff;
+    font-family: Futura;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 0.5em;
+    line-height: 1.6;
+    
+}
+
+.proj-title{
+    font-weight: 100;
+    
+}
 
 
 
